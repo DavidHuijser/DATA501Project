@@ -1,2 +1,4 @@
-print("This is the first line of my new project")
 
+
+print("I added this line instead")
+print("I also removed the first line")
